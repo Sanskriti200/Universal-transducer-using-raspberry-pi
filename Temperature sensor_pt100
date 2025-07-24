@@ -1,3 +1,7 @@
+import time
+import math
+import matplotlib.pyplot as plt
+from ADS1256 import ADS1256
 
 ### === PT100 Sensor === ###
 class SimulatedPT100:
